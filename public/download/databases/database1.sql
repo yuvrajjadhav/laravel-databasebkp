@@ -1,0 +1,8 @@
+
+
+CREATE DATABASE `database1` /*!40100 DEFAULT CHARACTER SET latin1 */;
+
+CREATE TABLE `asd` (
+  `dsad` varchar(10) NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+
